@@ -1,0 +1,43 @@
+p{
+    border: 5px solid rgb(148, 148, 187);
+    padding: 5px;
+    background-color: grey;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+}
+#name{
+    width: 310px;
+    padding: 5px;
+    border: 5px solid rgb(148, 148, 187);
+}
+button{
+    margin-top:20px;
+    margin-left: 20px;
+    width: 110px;
+    padding: 5px;
+    border: 5px solid rgb(148, 148, 187);
+    font-weight: bold;
+    border-radius: 10px;
+    background-color:rgb(78, 90, 112);
+}
+label{
+    width: 110px;
+    color: white;
+    padding: 5px;
+    border: 5px solid rgb(148, 148, 187);
+    font-weight: bold;
+    border-radius: 10px;
+    background-color:rgb(10, 11, 12);
+}
+body{
+    text-align: center;
+    background-color:rgb(145, 145, 122);
+}
+#number{
+    margin-top:20px;
+    margin-left: 20px;
+    width: 310px;
+    padding: 5px;
+    border: 5px solid rgb(148, 148, 187);
+}
